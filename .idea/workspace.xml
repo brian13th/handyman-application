@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14277a48-585f-4479-b96f-c21a0f3f300d" name="Default Changelist" comment="" />
+    <list default="true" id="14277a48-585f-4479-b96f-c21a0f3f300d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/handyman/companies/templates/companies/companypost_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handyman/clients/templates/clients/clienthome.html" beforeDir="false" afterPath="$PROJECT_DIR$/handyman/clients/templates/clients/clienthome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handyman/clients/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/handyman/clients/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handyman/clients/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/handyman/clients/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handyman/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/handyman/db.sqlite3" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,20 +30,20 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/handyman/companies/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/handyman/companies/templates/companies" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/handyman/companies/templates/companies" />
-      <recent name="$PROJECT_DIR$/handyman/users" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/handyman/companies/templates/companies" />
       <recent name="$PROJECT_DIR$/handyman/companies/templates" />
       <recent name="$PROJECT_DIR$/handyman/companies" />
       <recent name="$PROJECT_DIR$/handyman/clients/static" />
       <recent name="$PROJECT_DIR$/handyman/clients" />
-      <recent name="$PROJECT_DIR$/handyman/users/templates/users" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/handyman/companies/templates/companies" />
+      <recent name="$PROJECT_DIR$/handyman/users" />
     </key>
   </component>
   <component name="RunDashboard">
