@@ -10,7 +10,7 @@
             <h6 class="card-subtitle mb-2 text-muted">{{ object.author.property.status }}</h6>
             <h6 class="card-subtitle mb-2 text-muted">{{ object.date_posted }}</h6>
             <p class="card-text">{{ object.content }}</p>
-            <a href="{% url 'company-post' %}" class="btn btn-primary">Go somewhere</a>
+            <a href="{% url 'company-post' object.id %}" class="btn btn-primary">Go somewhere</a>
           </div>
         </div>
     {% endfor %}

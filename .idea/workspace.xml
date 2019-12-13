@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14277a48-585f-4479-b96f-c21a0f3f300d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/handyman/companies/templates/companies/companypost_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handyman/companies/templates/companies/companypost.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/handyman/clients/templates/clients/clienthome.html" beforeDir="false" afterPath="$PROJECT_DIR$/handyman/clients/templates/clients/clienthome.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/handyman/clients/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/handyman/clients/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handyman/clients/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/handyman/clients/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handyman/companies/templates/companies/companyhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/handyman/companies/templates/companies/companyhome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handyman/companies/templates/companies/companypost_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/handyman/clients/templates/clients/clientpost.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handyman/companies/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/handyman/companies/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handyman/companies/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/handyman/companies/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/handyman/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/handyman/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,20 +33,20 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/handyman/companies/templates/companies" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/handyman/clients/templates/clients" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/handyman/companies/templates/companies" />
+      <recent name="$PROJECT_DIR$/handyman/users" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/handyman/clients/templates/clients" />
       <recent name="$PROJECT_DIR$/handyman/companies/templates/companies" />
       <recent name="$PROJECT_DIR$/handyman/companies/templates" />
       <recent name="$PROJECT_DIR$/handyman/companies" />
       <recent name="$PROJECT_DIR$/handyman/clients/static" />
-      <recent name="$PROJECT_DIR$/handyman/clients" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/handyman/companies/templates/companies" />
-      <recent name="$PROJECT_DIR$/handyman/users" />
     </key>
   </component>
   <component name="RunDashboard">
